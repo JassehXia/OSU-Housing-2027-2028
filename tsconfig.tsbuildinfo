@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/housingmap.tsx","./src/components/listingdetaildrawer.tsx","./src/components/shortlistmodal.tsx","./src/components/sidebar.tsx","./src/hooks/usehousingdata.ts","./src/hooks/useshortlist.ts","./src/types/housing.ts","./src/utils/format.ts"],"version":"5.9.3"}
